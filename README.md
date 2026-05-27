@@ -177,6 +177,7 @@ This work contributes to the broader problem of **automated ocean monitoring** �
 ## 👤 Author
 
 **Binu Shefield Shifani**
+
 Software Engineer (5 years, Cognizant Technology Solutions)
 MS AI & Automation · University West, Trollhättan, Sweden
 [GitHub](https://github.com/BinuShefieldShifani)
